@@ -1,0 +1,14 @@
+# node
+node_modules/
+
+# 빌드 산출물
+dist/
+
+# OpenAPI 출력 파일
+openapi.json
+
+# 환경 변수 파일 (예: API 키)
+.env
+
+# VSCode 설정 등 개발자 개인 설정
+.vscode/
