@@ -7,3 +7,5 @@
 5. npx ts-node src/index.ts(서버 실행 방법,근데 indext.ts에 아무것도 없어서 실행 안될거임)
 
 **아직 GPT API KEY setting은 안해둔 상태 추가로 만들어야 함**
+
+## ##
