@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@wrtnlabs/connector-naver-news": "^0.1.506"
+  }
+}
